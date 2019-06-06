@@ -1,0 +1,6 @@
+
+™squid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÂ
+usquid:S1450""^Remove the "getMoviesButton" field and declare it as a local variable in the relevant methods.(ø¾õ¬
+squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şò±ïøÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿÊñ·øÿÿÿÿ

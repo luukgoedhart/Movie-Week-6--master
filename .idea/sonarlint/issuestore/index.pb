@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+c
+3app/src/main/java/com/example/movieweek6/Movie.java,0\7\07b4e5de7c9d09bf4c8a77968ca38a8477dbdd61
+m
+=app/src/main/java/com/example/movieweek6/util/getFullUrl.java,7\c\7c1b5222774d1868493fa42e7ab0c6c8432d8d2b
+s
+Capp/src/main/java/com/example/movieweek6/ApiCalls/AllMoviesApi.java,3\6\3618f2fefd5ac6cc0a6dba51f011aebb0eb06788
+|
+Lapp/src/main/java/com/example/movieweek6/ApiCalls/MainActivityViewModel.java,5\f\5f6c2bccf150354ddbefc4dd15e34ad6bc1770b4
+z
+Japp/src/main/java/com/example/movieweek6/ApiCalls/AllMoviesRepository.java,5\0\505ee280c996841dd3109f79971e9b509689fbda
+z
+Japp/src/main/java/com/example/movieweek6/ApiCalls/AllMoviesApiService.java,d\8\d8ad7731d2c2badf77690f08fea672e27d674aba
+
+Oapp/src/main/java/com/example/movieweek6/MovieInformation/MovieInformation.java,6\5\654465319a10bfd0199a3330a18cd3e799ce0786
+Å
+Qapp/src/main/java/com/example/movieweek6/MovieModel/MostPopularMoviesAdapter.java,9\7\97af6f6fa6dbd81b958b13b3c70ee5ab8c02a480
+j
+:app/src/main/java/com/example/movieweek6/MainActivity.java,2\3\230572c0584868ad73793ad55f1f7481f8109358

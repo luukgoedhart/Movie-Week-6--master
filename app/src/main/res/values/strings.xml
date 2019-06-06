@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie week 6</string>
+    <string name="the_most_popular_movies_of">edittext_description</string>
+    <string name="standard_year">2019</string>
+    <string name="submit_button">Submit</string>
+    <string name="overview">Overview</string>
+</resources>
